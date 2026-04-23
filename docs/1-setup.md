@@ -263,11 +263,11 @@ This follows the **MVC (Model-View-Controller)** pattern adapted for REST APIs:
 PORT=3000
 MONGODB_URL=mongodb://127.0.0.1:27017
 CORS_ORIGIN=*
-ACCESS_TOKEN_SECRET=koliayush
+ACCESS_TOKEN_SECRET=
 ACCESS_TOKEN_EXPIRY=1d
-REFRESH_TOKEN_SECRET=ayushkoli
+REFRESH_TOKEN_SECRET=
 REFRESH_TOKEN_EXPIRY=10d
-CLOUDINARY_CLOUD_NAME=dudut38y4
+CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 ```
@@ -335,4 +335,4 @@ The `.prettierignore` file tells Prettier which files/folders to skip formatting
 
 ---
 
-> 🚀 **Next Step:** [Step 2 — Database Connection](./database.md)
+> 🚀 **Next Step:** [Step 2 — Database Connection](./2-database.md)
