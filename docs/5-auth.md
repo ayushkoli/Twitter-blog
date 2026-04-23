@@ -360,5 +360,3 @@ Even if attacker has old accessToken → it expires in 1d and can't be refreshed
 - **`bcrypt.compare()` never reverses the hash** — it re-hashes the input and compares
 
 ---
-
-> 🚀 **Next Step:** [Step 6 — Controllers](./controllers.md)

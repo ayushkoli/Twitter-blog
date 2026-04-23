@@ -335,4 +335,4 @@ The `.prettierignore` file tells Prettier which files/folders to skip formatting
 
 ---
 
-> 🚀 **Next Step:** [Step 2 — Database Connection](./2-database.md)
+>  **Next Step:** [Step 2 - Database Connection](./2-database.md)

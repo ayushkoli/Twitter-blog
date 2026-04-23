@@ -103,4 +103,4 @@ The server only starts **after** the DB connection succeeds. This is intentional
 
 ---
 
-> 🚀 **Next Step:** [Step 3 — Models](./3-models.md)
+>  **Next Step:** [Step 3 - Models](./3-models.md)

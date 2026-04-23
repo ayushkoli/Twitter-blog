@@ -302,4 +302,4 @@ Ask: Is this data shared across multiple documents?
 
 ---
 
-> 🚀 **Next Step:** [Step 4 — Utilities](./4-utils.md)
+>  **Next Step:** [Step 4 - Utilities](./4-utils.md)

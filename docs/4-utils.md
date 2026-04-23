@@ -435,4 +435,4 @@ The key idea: `public/temp` is just a **staging area**. The file lives there onl
 
 ---
 
-> 🚀 **Next Step:** [Step 5 — Authentication](./5-auth.md)
+>  **Next Step:** [Step 5 - Authentication](./5-auth.md)
